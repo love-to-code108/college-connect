@@ -1,4 +1,5 @@
-import './App.css'
+import { LoginPage } from "./pages/loginPage/loginPage";
+
 
 function App() {
   
@@ -6,6 +7,7 @@ function App() {
   return (
     <div>
       Hello world
+      <LoginPage/>
     </div>
   );
 }
