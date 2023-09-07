@@ -1,11 +1,11 @@
 import "../../index.css"
 
-export const LoginPage = () => {
+export const Register = () => {
 
 
     return(
         <div>
-            This is the login Page
+            This is the Register Page
         </div>
     );
 }

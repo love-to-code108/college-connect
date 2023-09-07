@@ -1,11 +1,14 @@
+
 import "../../index.css"
 
-export const LoginPage = () => {
+export const HomePage = () => {
 
+
+    
 
     return(
         <div>
-            This is the login Page
+            This is the home page
         </div>
     );
 }
