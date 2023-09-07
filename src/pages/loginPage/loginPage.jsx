@@ -58,7 +58,7 @@ export const LoginPage = () => {
             <div onClick={SignOut}
                 className="text-5xl cursor-pointer">Sign Out</div>
 
-                <div>{auth?.currentUser?.email}</div>
+                <div>{auth?.currentUser?.displayName}</div>
         </div>
     );
 }

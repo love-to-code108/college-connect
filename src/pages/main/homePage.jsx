@@ -1,14 +1,14 @@
 
 import "../../index.css"
 
-export const HomePage = () => {
+export const CreatePost = () => {
 
 
     
 
     return(
         <div>
-            This is the home page
+            This is Page Where we post
         </div>
     );
 }
